@@ -14,6 +14,10 @@
 }
 
 #workskin .innertext {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: courier, monospace;
+  color: #000000;
   background: #FFFFFF;
   line-height: 1.2;
   text-align: justified;
