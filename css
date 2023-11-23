@@ -1,0 +1,124 @@
+#workskin .window {
+  width: 66%;
+  padding: 0.6em;
+  text-align: center;
+  border-radius: 7px;
+  background: url("https://i.postimg.cc/gkxBXCZ5/trollian-bg.png"), linear-gradient(#e90013, #c20f00);
+  background-size: 100%, 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  overflow: clip;
+  max-height: 370px;
+  margin: 0 auto 25px;
+  display: block;
+}
+
+#workskin .innertext {
+  background: #FFFFFF;
+  line-height: 1.2;
+  text-align: justified;
+  height: 250px;
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+  overflow: auto;
+  display: block;
+  border-color: #c2c2c2;
+  border-style: solid;
+  border-top-width: 1.5px;
+  border-right-width: 3px;
+  border-bottom-width: 1.5px;
+  border-left-width: 3px;
+}
+
+#workskin .textentry {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: courier, monospace;
+  color: #b2b2b2;
+  background: #FFFFFF;
+  text-align: left;
+  height: 1.5em;
+  padding: 2px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  border-radius: 0 0 3px 3px;
+  overflow: clip;
+  display: block;
+  float: center;
+  border-color: #c2c2c2;
+  border-style: solid;
+  border-top-width: 1.5px;
+  border-right-width: 3px;
+  border-bottom-width: 3px;
+  border-left-width: 3px;
+}
+
+#workskin .topbar {
+  background-color: #ff2612;
+  padding: 2px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: courier, monospace;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #FFFFFF;
+  border-color: #c2c2c2;
+  border-style: solid;
+  border-top-width: 3px;
+  border-right-width: 3px;
+  border-bottom-width: 1.5px;
+  border-left-width: 3px;
+  margin-top: 2.3em;
+  border-radius: 3px 3px 0 0;
+  margin-bottom: 0;
+  height: 1.5em;
+  overflow: hidden;
+  text-overflow: clip;
+}
+
+#workskin .topbar::before {
+  display: inline-block;
+  position: relative;
+  float: left;
+  font-weight: bold;
+  padding: 0 3px;
+  width: 85%;
+}
+
+#workskin .topbar::after {
+  content: '🗕✖';
+  display: inline-block;
+  position: relative;
+  font-weight: bold;
+  padding-right: 5px;
+  float: right;
+  color: #cfcfcf;
+  -webkit-transform: scale(1.5, 1.0);
+  -moz-transform: scale(1.5, 1.0);
+  -ms-transform: scale(1.5, 1.0);
+  -o-transform: scale(1.5, 1.0);
+  transform: scale(1.5,1.0);
+  cursor: pointer;
+}
+
+#workskin .innertext::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+#workskin .innertext::-webkit-scrollbar:vertical {
+  width: 15px;
+}
+
+#workskin .innertext::-webkit-scrollbar-thumb {
+  background-color: #e02413;
+  border: 2px solid #ff2612;
+}
+
+#workskin .innertext::-webkit-scrollbar-track {
+  background-color: #cecece;
+}
