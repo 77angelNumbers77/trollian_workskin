@@ -1,2 +1,2 @@
-# trollian_workskin
-A Trollian workskin for AO3
+# Homestuck Workskins
+Workskins that look like Homestuck chat clients. 
