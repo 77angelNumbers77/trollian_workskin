@@ -1,3 +1,4 @@
+<img src="screenshot.png">
 # Homestuck Workskins
 Workskins that look like Homestuck chat clients. <a href="https://archiveofourown.org/works/51789649/chapters/130933444">Tutorials here</a>
 # Progress
