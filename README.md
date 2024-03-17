@@ -1,4 +1,4 @@
-<img src="screenshot.png">
+
 # Homestuck Workskins
 Workskins that look like Homestuck chat clients. <a href="https://archiveofourown.org/works/51789649/chapters/130933444">Tutorials here</a>
 # Progress
@@ -7,3 +7,5 @@ Workskins that look like Homestuck chat clients. <a href="https://archiveofourow
 ⬜ Pesterchum 6.0<br>
 ⬜ Pesterchum 7.0<br>
 ⬜ Other Pesterchum components<br>
+<br>
+<img src="screenshot.png" width="50%">
